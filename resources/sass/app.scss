@@ -1,0 +1,32 @@
+// // Fonts
+// @import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// // Variables
+// @import 'variables';
+
+// // Bootstrap
+// @import '~bootstrap/scss/bootstrap';
+
+// Variables
+@import "variables";
+// $fa-font-path: "/webfonts";
+// $fa-font-path: "/quiz/public/webfonts";
+$fa-font-path: "/public/webfonts";
+
+// $fa-font-path: "/shopify-apps/order-import/public/webfonts";
+// Bootstrap
+@import "~admin-lte/plugins/select2/css/select2.min.css";
+@import "~admin-lte/dist/css/adminlte.css";
+@import "~jquery-confirm/css/jquery-confirm.css";
+@import "@fortawesome/fontawesome-free/scss/fontawesome.scss";
+@import "@fortawesome/fontawesome-free/scss/solid.scss";
+@import "~admin-lte/plugins/bootstrap-colorpicker/css/bootstrap-colorpicker.min.css";
+@import "~datatables.net-bs4/css/dataTables.bootstrap4";
+
+.navbar-laravel {
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+.error {
+    color: red;
+}

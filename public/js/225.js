@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[225],{6225:(t,e,n)=>{n.r(e),n.d(e,{default:()=>a});const s={data:function(){return{page_title:"Dashboard"}},mounted:function(){this.$emit("pagetitlechange",this.page_title)}};const a=(0,n(1900).Z)(s,(function(){var t=this.$createElement;return(this._self._c||t)("div")}),[],!1,null,"6b6b134d",null).exports}}]);
